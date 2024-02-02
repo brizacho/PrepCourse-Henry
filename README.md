@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Esta es una prueba
+Esto es una prueba
